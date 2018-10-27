@@ -23,21 +23,21 @@ This affects all of us—whether we are feminists working against sexism, parish
 
 
 [^1]:
-Note about gender: In this article, I will be using only female pronouns from this point onward. The intention is not to diminish the experience of male pornography actors or men who are victimized. Instead, addressing the role of men in pornography or male victimization does not fall within the scope of this article. Hopefully, I (or someone else) will be able to write another post about men in pornography soon.
+	Note about gender: In this article, I will be using only female pronouns from this point onward. The intention is not to diminish the experience of male pornography actors or men who are victimized. Instead, addressing the role of men in pornography or male victimization does not fall within the scope of this article. Hopefully, I (or someone else) will be able to write another post about men in pornography soon.
 
 [^2]:
-MacKinnon, C. A. (2005). Pornography as trafficking. Michigan Journal of International Law, 26(4), 993-1012.
+	MacKinnon, C. A. (2005). Pornography as trafficking. Michigan Journal of International Law, 26(4), 993-1012.
 
 [^3]:
-CNN has an interesting [documentary](https://www.youtube.com/watch?v=fFRZ1NDR0Rc) about selling girls on Backpage if you would like to understand the process better.
+	CNN has an interesting [documentary](https://www.youtube.com/watch?v=fFRZ1NDR0Rc) about selling girls on Backpage if you would like to understand the process better.
 Lyon, A., & Matthews, S. (2011). Selling the girl next door. United States: CNN.
 
 [^4]:
-Craigslist finally took action in March of 2018 by shutting down its personal ads. Whether the action taken actually makes a difference is difficult to tell because sex traffickers simply shift to other websites. Nevertheless, at least the company recognizes that children were being sold on their website.
+	Craigslist finally took action in March of 2018 by shutting down its personal ads. Whether the action taken actually makes a difference is difficult to tell because sex traffickers simply shift to other websites. Nevertheless, at least the company recognizes that children were being sold on their website.
 Chokshi, N. (2018, May 3). Craigslist drops personal ads because of sex trafficking bill. Retrieved from https://www.nytimes.com/2018/03/23/business/craigslist-personals-trafficking-bill.html
 
 [^5]:
-[This document](https://docs.google.com/document/d/1n9XzwXHQc37JnPrzQvXNCWN0cRgR5Zkt5-ETV-2q9I4/edit?usp=sharing) contains links to the story of women and men that left the pornography, sex trafficking, and prostitution industries. Listen to their stories to understand the industry better. The best part about listening to many first-hand stories is that our perception of the sex industries becomes more realistic.
+	[This document](https://docs.google.com/document/d/1n9XzwXHQc37JnPrzQvXNCWN0cRgR5Zkt5-ETV-2q9I4/edit?usp=sharing) contains links to the story of women and men that left the pornography, sex trafficking, and prostitution industries. Listen to their stories to understand the industry better. The best part about listening to many first-hand stories is that our perception of the sex industries becomes more realistic.
 
 [^6]:
-Bree Olson describes her experience transitioning out of the pornography industry. She was a Porn Star, and one of the minority of actresses who could make a significant amount of money in the industry. I added this video specifically because of how well she articulates the [limitations that the porn industry placed on her future career.](https://youtu.be/9NyzCJx4IiI?t=238)
+	Bree Olson describes her experience transitioning out of the pornography industry. She was a Porn Star, and one of the minority of actresses who could make a significant amount of money in the industry. I added this video specifically because of how well she articulates the [limitations that the porn industry placed on her future career.](https://youtu.be/9NyzCJx4IiI?t=238)
