@@ -21,7 +21,6 @@ Despite the injustices, most of us do not want to become sex workers. As a socie
 
 This affects all of us—whether we are feminists working against sexism, parishioners seeking justice, or advocates fighting for human rights. The women and men impacted by sexual violence need us to go closer to the industry and figure out how to exercise restorative justice. Do not quit pornography for yourself, do it for the people who are abused every day. Shame will not help you quit, but listening to the stories of people who have left the industry might. We are people that connect with each other. We want to hear each other’s [stories](https://docs.google.com/document/d/1n9XzwXHQc37JnPrzQvXNCWN0cRgR5Zkt5-ETV-2q9I4/edit?usp=sharing), so we can learn how to stop assaulting each other.
 
-
 [^1]:
 	Note about gender: In this article, I will be using only female pronouns from this point onward. The intention is not to diminish the experience of male pornography actors or men who are victimized. Instead, addressing the role of men in pornography or male victimization does not fall within the scope of this article. Hopefully, I (or someone else) will be able to write another post about men in pornography soon.
 
