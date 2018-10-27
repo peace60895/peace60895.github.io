@@ -4,6 +4,7 @@ title: You're up and running!
 author: Sam I Am
 tags: macaroni-and-cheese queso cats
 published: true
+audience_note: Written from personal experience.
 ---
 
 Next you can update your site name, avatar and other options using the \_config.yml file in the root of your repository (shown below).
@@ -11,6 +12,9 @@ Next you can update your site name, avatar and other options using the \_config.
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 The easiest way to make your first post is to edit this one. Go into /\_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+> A quick quote from a notable person
+> goes like this...
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.[^1] Cras eu sem a ipsum venenatis convallis. Nam lobortis dolor eu libero facilisis faucibus eget vel lacus. Vestibulum at enim malesuada, consectetur risus a, euismod sapien. Suspendisse a eros non risus ultrices mattis. Vivamus sollicitudin eros lorem, ut maximus ipsum pretium sed. Praesent nunc risus, imperdiet quis tristique ut, porta non justo. Suspendisse at mi quis nibh facilisis porta. Vestibulum consequat pulvinar dolor, vel dictum orci fermentum at. Donec et sem velit. Vivamus mattis, ligula sit amet lobortis blandit, nisl orci lacinia neque, at accumsan tortor neque vel lacus. In eget tellus augue.
 

@@ -1,0 +1,43 @@
+---
+layout: post
+title: Porn and Sex Trafficking
+author: Sam M-E
+tags: pornography sex-trafficking sex online abuse
+published: true
+---
+Conversations about pornography—in secular and religious circles—often emphasize the effect of pornography on the viewer. We ask questions like, does pornography promote sexism or violence in the consumer? Or, does pornography affect the viewer’s sex drive? Although this particular focus is born of good intention, the fate of the actress (or actor[^1]) is often neglected. Examining pornographic work in further depth may alter our entire perception of the industry. Our perception may shift away from the idea that pornography is abstract crude entertainment and toward the idea that pornography has major implications for the way we live our lives. Finding that deeper reality is only possible if we listen to the stories of pornographic actresses.
+
+When I first studied pornography, I was working on a sex trafficking project. First, I learned that sex traffickers snap pictures and record videoclips of sex-trafficked girls and post them online.[^2] Imagine that you are a sex trafficker, making money by selling girls to have sex with men online. You start with Backpage[^3] and Craigslist.[^4] That is where you sold your laptop, and the “escorts” section makes it all too easy to upload a picture of an underaged girl and write a fake caption. You can also make a profit by selling the videos to pornographers.
+
+The benefits of these options are multiple, and not limited to crushing the girls’ sense of independence so she feels trapped in the industry. These pictures are then disseminated to a plethora of pornographic sites. The industry is unregulated, and consent is not usually on a pornographer’s checklist when determining whether to accept photos or videos electronically. Likewise, it would be inaccurate to suggest that the vast majority of pornographic actresses are treated better than sex trafficking victims. Sex trafficking, pornography, and prostitution fall along a single spectrum. There are features of all three industries that overlap and remain indistinguishable, with one common theme being sexual violence. To evaluate this for yourself, listen to the stories[^5] of women that left any one of these industries and see if you can distinguish between the levels of unwanted violence and psychological damage.
+
+At this point, I will introduce a counterargument that has frequently been articulated: Women choose to participate in pornography to make money; sex workers provide consent. Note that the words “choose” and “consent” are central to this argument. These words deserve to be explored in further depth.
+
+What is “choice” when you are presented with several dehumanizing options? What is “consent” when you are pressured against your will? My argument is not political, not a call to overregulate the industry. Instead, I suggest that the words “choice”  and “consent” are being misused in this context. The applicability of these terms decreases as the level of force and coercion increases. In other words, when the sex industry becomes abusive, the sense of agency of the workers drastically decreases. There are perhaps a few exceptions: actresses at the top of the industry may acquire substantial wealth and fame. With the caveat that their body will always be public on the Internet, and their chances of acquiring another meaningful job, if they choose to do so, are slim.[^6]
+
+Meanwhile, the majority of actresses’ trajectory looks more like a victim of never-ending perpetration. Agreeing to participate in another video shoot, too exhausted to provide consent with each and every pose, no time for your emotions, and people see you as a perpetrator: life drudges on. Making money becomes an increasingly difficult feat if you happen to neglect your image, fail to participate in more risky acts, or (heaven forbid) get older! Because entering the industry did not feel like a true choice, neither does leaving the industry. You envision yourself with no job, no community, no friends, and endless images and videos that you will never be able to fully take down from the web. In porn, true choice is sparingly rare and you crave those moments of empowerment if you did not lose your will to choose altogether. This is what the actresses in pornography have told me through their stories. The pain embodied in these stories is somewhat shocking, but it is not nearly as practical as what I learned next—the reason I am writing this post.
+
+Despite the injustices, most of us do not want to become sex workers. As a society, we may even begin to accept that pornography workers may not be experiencing glamorous lifestyles. We are distant and removed from the industry; far from offering our financial support. That is why I originally relinquished myself from any responsibility for these atrocities. Until I realized that, at some point, the majority of tech users are directly connected to the problem. One of the ways that pornographers make money, like many website owners, is through paid advertisements. These advertisements generate income for the website owner via “pay per view” or “pay per click.” Although these advertisements will not pay a pornographer’s salary, millions of clicks do add up. When we view or click on pornographic advertisements (even if they pop up in our browsers unsolicited), we generate income for the business men at the top of the pornographic industry. The more we view pornography, the more we endorse the way pornographic businessmen run the industry. No direct checks are needed.
+
+This affects all of us—whether we are feminists working against sexism, parishioners seeking justice, or advocates fighting for human rights. The women and men impacted by sexual violence need us to go closer to the industry and figure out how to exercise restorative justice. Do not quit pornography for yourself, do it for the people who are abused every day. Shame will not help you quit, but listening to the stories of people who have left the industry might. We are people that connect with each other. We want to hear each other’s stories, so we can learn how to stop assaulting each other.
+
+
+[^1]:
+Note about gender: In this article, I will be using only female pronouns from this point onward. The intention is not to diminish the experience of male pornography actors or men who are victimized. Instead, addressing the role of men in pornography or male victimization does not fall within the scope of this article. Hopefully, I (or someone else) will be able to write another post about men in pornography soon.
+
+[^2]:
+MacKinnon, C. A. (2005). Pornography as trafficking. Michigan Journal of International Law, 26(4), 993-1012.
+
+[^3]:
+CNN has an interesting documentary about selling girls on Backpage if you would like to understand the process better.
+Lyon, A., & Matthews, S. (2011). Selling the girl next door. United States: CNN.
+
+[^4]:
+Craigslist finally took action in March of 2018 by shutting down its personal ads. Whether the action taken actually makes a difference is difficult to tell because sex traffickers simply shift to other websites. Nevertheless, at least the company recognizes that children were being sold on their website.
+Chokshi, N. (2018, May 3). Craigslist drops personal ads because of sex trafficking bill. Retrieved from https://www.nytimes.com/2018/03/23/business/craigslist-personals-trafficking-bill.html
+
+[^5]:
+This document contains links to the story of women and men that left the pornography, sex trafficking, and prostitution industries. Listen to their stories to understand the industry better. The best part about listening to many first-hand stories is that our perception of the sex industries becomes more realistic.
+
+[^6]:
+Bree Olson describes her experience transitioning out of the pornography industry. She was a Porn Star, and one of the minority of actresses who could make a significant amount of money in the industry. I added this video specifically because of how well she articulates the limitations that the porn industry placed on her future career.
