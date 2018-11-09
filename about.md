@@ -20,3 +20,5 @@ When creating this site, my vision is that this blog will be a group endeavor. A
 
 As a closing note, I want to offer a special thank you to everyone who has made this site possible. First, thank you to the authors for your thoughtful posts and active participation. Second, thank you to readers who, in one way or another, are developing the courage to brave controversy. Finally, I want to extend a special thank you to [Micah](https://micahjon.com/), my brother and web developer.
 
+
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us19.list-manage.com","uuid":"e66ab67d894c54c620f0e79fa","lid":"231ca4a812","uniqueMethods":true}) })</script>
