@@ -40,3 +40,6 @@ Chokshi, N. (2018, May 3). Craigslist drops personal ads because of sex traffick
 
 [^6]:
 	Bree Olson describes her experience transitioning out of the pornography industry. She was a Porn Star, and one of the minority of actresses who could make a significant amount of money in the industry. I added this video specifically because of how well she articulates the [limitations that the porn industry placed on her future career.](https://youtu.be/9NyzCJx4IiI?t=238)
+
+
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us19.list-manage.com","uuid":"e66ab67d894c54c620f0e79fa","lid":"231ca4a812","uniqueMethods":true}) })</script>
