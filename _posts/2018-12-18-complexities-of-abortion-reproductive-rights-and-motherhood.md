@@ -1,7 +1,4 @@
 ---
-published: true
----
----
 layout: post
 title: Complexities of Abortion, Reproductive Rights, and Motherhood
 author: Tricia L
