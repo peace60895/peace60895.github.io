@@ -3,6 +3,7 @@ layout: post
 title: Complexities of Abortion, Reproductive Rights, and Motherhood
 author: Tricia L
 tags: abortion contraception reproductive-health motherhood reproductive-rights
+excerpt:“No woman wants an abortion as she wants an ice cream cone or a Porsche. She wants an abortion as an animal caught in a trap wants to gnaw off its own leg.”[^1] I don’t write this from the perspective of pro-life or pro-choice, but rather in an attempt to dive deeply into a complex issue. I write this to illustrate a vital point that abortion is a downstream issue due to failures upstream in our culture. Tammy Bruce in a speech at Columbia University on April 6, 2005 stated frankly, “With every kind of birth control available in the world, abortion is not something to be proud of. If you need an abortion, you’ve failed.” Or rather, the system has failed. 
 published: true
 ---
 ## Introduction
