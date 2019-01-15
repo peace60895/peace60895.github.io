@@ -8,6 +8,9 @@ layout: default
   <div class="post__date column">{{ page.date | date: "%B %e, %Y" }}</div>
 
   <div class="post__content column">
+    {% if page.audience_note %}
+      <aside class="post__audience-note">{{ page.audience_note }}</aside>
+    {% endif %}
     {{ content }}
   </div>
 
