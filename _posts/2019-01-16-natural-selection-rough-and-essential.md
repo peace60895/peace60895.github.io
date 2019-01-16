@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Natural Selection: Rough and Essential?
+title: "Natural Selection: Rough and Essential?"
 author: Sam M-E
 tags: theistic-evolution evolution natural-selection theology creation 
 published: true
