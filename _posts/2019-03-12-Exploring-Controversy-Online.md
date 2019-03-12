@@ -9,7 +9,7 @@ excerpt: >-
   Living in a First-World nation in the 21st century, most of us have access to
   an exorbitant amount of information. If you are reading this post, then you
   are one of over 4.1 billion human beings that are estimated to have access to
-  the Internet.1 This estimate is the result of a staggering 1,052% increase in
+  the Internet.[^1] This estimate is the result of a staggering 1,052% increase in
   Internet users from 2000 to 2018. As the number of users mushrooms, so does
   the bulk of information that is disseminated on the Web.
 published: true
