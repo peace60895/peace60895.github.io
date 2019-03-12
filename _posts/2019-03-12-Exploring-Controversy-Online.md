@@ -1,5 +1,10 @@
 ---
-published: false
+layout: post
+title: "Exploring Controversy Online"
+author: Sam M-E
+tags: online controversy sources publication-bias bias Wikipedia algorithm Google-Drive 
+excerpt: Living in a First-World nation in the 21st century, most of us have access to an exorbitant amount of information. If you are reading this post, then you are one of over 4.1 billion human beings that are estimated to have access to the Internet.1 This estimate is the result of a staggering 1,052% increase in Internet users from 2000 to 2018. As the number of users mushrooms, so does the bulk of information that is disseminated on the Web. 
+published: true
 ---
 
 Living in a First-World nation in the 21st century, most of us have access to an exorbitant amount of information. If you are reading this post, then you are one of over 4.1 billion human beings that are estimated to have access to the Internet.1 This estimate is the result of a staggering 1,052% increase in Internet users from 2000 to 2018. As the number of users mushrooms, so does the bulk of information that is disseminated on the Web. Note that increasing our exposure to a diversity of information does have some serious buttload-of-information bonuses—cross-cultural dialogue, cultural diversity, (increasing) freedom of thought—you could write a book on the pros. On the flip side, the expectation that we have the capacity to sift through this sea of data without a thoughtful strategy seems to be unrealistic. This is especially true when websites and advertisers are proactively working on strategies to disseminate information to users. Since the beginning of the Web, researchers have been tackling information overload with filtering and summarising strategies2, and Web engineers are continually improving search engine algorithms.3 This tug-of-war, between smattering consumers with information and attempting to mitigate the damage, is not going to end any time soon. Nevertheless, as we impatiently wait on better algorithms, we can strategically improve our ability to explore what we want to explore and digest what we want to digest. In this post, emphasis will be placed on the need for acting strategically when we explore controversial content online.
