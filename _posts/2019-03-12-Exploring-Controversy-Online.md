@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exploring Controversy Online
-author: Sam M-E
+author: Samuel M-E
 tags: >-
   online controversy sources publication-bias bias Wikipedia algorithm
   Google-Drive
