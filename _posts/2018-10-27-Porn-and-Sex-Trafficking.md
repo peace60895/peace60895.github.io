@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Porn and Sex Trafficking
-author: Sam M-E
+author: Samuel M-E
 tags: pornography sex-trafficking sex online abuse
 published: true
 ---
