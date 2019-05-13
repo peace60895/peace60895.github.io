@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Natural Selection: Rough and Essential?"
-author: Sam M-E
+author: Samuel M-E
 tags: theistic-evolution evolution natural-selection theology creation 
 excerpt: When I first studied “natural selection,” the immediate thought that would cross my mind is, “nature’s selection.” Organisms that are better adapted to their environment are more likely to reproduce. These are the creatures that nature selects. Without a doubt, mother nature’s choices seem harsh. This was my initial judgement when I began to explore the philosophical and spiritual implications of evolution. 
 published: true
