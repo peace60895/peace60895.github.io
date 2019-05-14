@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Faith and Doubt: The Uncertainty of It All
+title: "Faith and Doubt: The Uncertainty of It All"
 author: Anthony D
 tags: doubt belief God Christianity skeptic
 excerpt: Certainty, at least with the biggest and most important aspects of life (whether it is starting a business, a marriage, a family) is a myth.[^2] If one is certain of their beliefs, then it is no longer faith but something else entirely.
