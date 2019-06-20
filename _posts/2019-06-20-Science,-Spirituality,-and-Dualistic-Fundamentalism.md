@@ -1,5 +1,10 @@
 ---
-published: false
+layout: post
+title: "Science, Spirituality, and Dualistic Fundamentalism"
+author: Samuel
+tags: science spirituality fundamentalism history-of-clinical-psychology dualism 
+excerpt: At some point on the learning journey, many scientists and philosophically-inclined students are apt to wrestle with the relationship between science and spirituality. When we feel tension regarding the relationship between science and spirituality, we may adopt a variety of beliefs, whether through conscious deliberation or acceptance of the status quo.
+published: true
 ---
 At some point on the learning journey, many scientists and philosophically-inclined students are apt to wrestle with the relationship between science and spirituality. When we feel tension regarding the relationship between science and spirituality, we may adopt a variety of beliefs, whether through conscious deliberation or acceptance of the status quo. We may decide that science and spirituality are completely separate, yet compatible, domains. We may decide to embrace one and reject the other as invalid. Or, we may push away from the subject altogether. 
 
