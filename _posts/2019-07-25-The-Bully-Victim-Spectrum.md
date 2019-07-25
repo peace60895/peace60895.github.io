@@ -13,7 +13,7 @@ excerpt: >-
   wanted to self-verify that he was still a jerk. Not surprisingly, my
   accusations were pretty inaccurate. Over time, I began to learn that he was a
   person with needs and pains as deep as my own.
-published: false
+published: true
 ---
 
 When I decided to communicate with one of the boys (now men) who bullied me in Elementary School, I neglected to think critically about my purpose for choosing this interaction. Although a part of me wanted to reach a deeper level of reconciliation with him, there was another part of me that simply wanted to self-verify that he was still a jerk. Not surprisingly, my accusations were pretty inaccurate. Over time, I began to learn that he was a person with needs and pains as deep as my own. Emotionally conflicted between what I knew to be true about the past and the new exchange that was being written, only one piece of the story was clear: I could no longer realistically place him in the bully-box. 
