@@ -1,6 +1,14 @@
 ---
+layout: post
+title: The Bully-Victim Spectrum
+author: Samuel M-E
+tags: >-
+  perpetrator victim bully-victim learned prejudice reconceptualizing bullying controversy 
+excerpt: >-
+  When I decided to communicate with one of the boys (now men) who bullied me in Elementary School, I neglected to think critically about my purpose for choosing this interaction. Although a part of me wanted to reach a deeper level of reconciliation with him, there was another part of me that simply wanted to self-verify that he was still a jerk. Not surprisingly, my accusations were pretty inaccurate. Over time, I began to learn that he was a person with needs and pains as deep as my own.
 published: false
 ---
+
 When I decided to communicate with one of the boys (now men) who bullied me in Elementary School, I neglected to think critically about my purpose for choosing this interaction. Although a part of me wanted to reach a deeper level of reconciliation with him, there was another part of me that simply wanted to self-verify that he was still a jerk. Not surprisingly, my accusations were pretty inaccurate. Over time, I began to learn that he was a person with needs and pains as deep as my own. Emotionally conflicted between what I knew to be true about the past and the new exchange that was being written, only one piece of the story was clear: I could no longer realistically place him in the bully-box. 
 
 Years later, I was forced to reconceptualize the way I understand people who bully. Social psychology researchers have also questioned the alleged paradox of the terms “bully” and “victim,” opting to use the term “bully-victim” to describe an individual who clearly meets objective criteria to fall in both categories.1 To understand why our tendency to return to dichotomizing “bullies” and “victims” is unhelpful, we need to think critically about why people engage in bullying behavior and question whether non-victim bullies exist with any frequency. Exceptions may occur if a person acquires a specific brain lesion or is predisposed to have strong antisocial tendencies.2 Nonetheless, even when these unfortunate circumstances take place, our collective response will be more appropriate when we view aggression as a complex blend of environmental,3 biological,4 and spiritual5 factors that affect all individuals. Through this lens, we can explore the victim-bully spectrum, and begin to shift our perspective away from identifying perpetrators, and toward reconciliation with hurting people. 
