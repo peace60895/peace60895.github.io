@@ -30,19 +30,19 @@ Beyond teaching prejudicial attitudes, an individual participating in bullying b
 
 People who chronically engage in bullying behavior or experience victimization often share a tendency to seek out ways to boost their fragile self-esteems. The relationship between self-esteem and bullying is more complex than what social psychology researchers previously anticipated. For example, Baumeister and colleagues have demonstrated that it is inappropriate to view low self-esteem as playing a causative role in bullying behavior.[^10] Nevertheless, regardless of whether the bullying individual has a low or high self-esteem, boosting one’s self-esteem is a relevant motivational factor for bullying behavior.[^11] Think about what you might gain from being the bully in this hypothetical interaction (the example is in Spanish because these scenarios are based on true experiences, although note that this example could have taken place in any culture).
 
-			Manuel points to Camila in the corner, “¿Nerdita, que zapatos te pusiste hoy? (Nerd, what shoes 			did you wear today?). 
+> Manuel points to Camila in the corner, “¿Nerdita, que zapatos te pusiste hoy? (Nerd, what shoes did you wear today?). 
 
-			The group around Manuel giggles. 
+> The group around Manuel giggles. 
 
-			Camila looks around; there is no escape, and she knows this conversation will not end well. 
+> Camila looks around; there is no escape, and she knows this conversation will not end well. 
 
-			“No me importa,” (I don’t care) she replies cautiously.
+> “No me importa,” (I don’t care) she replies cautiously.
 
-			“Te deberia importar, nerda negra. ¿o es que te pones ropa sucia sin lavarla?” (You	should 				care, black nerd. Or do you wear your clothes without washing?”). 
+> “Te deberia importar, nerda negra. ¿o es que te pones ropa sucia sin lavarla?” (You	should 	care, black nerd. Or do you wear your clothes without washing?”). 
 
-			¡No, claro que lavo mi ropa! ¡Vete! (No, of course I wash my clothes! Go away!). 
+> ¡No, claro que lavo mi ropa! ¡Vete! (No, of course I wash my clothes! Go away!). 
 
-			Mentiras, hasquerosa, eres cochina. (Lies, gross one.You are filthy.)
+> Mentiras, hasquerosa, eres cochina. (Lies, gross one.You are filthy.)
 
 Take a moment to think about what Manuel gains from this interaction. Perhaps confirmation that he is more valuable than he originally thought because Natalia is clearly inferior due to her clothing? When she rejects his belief, we see that threatening the self-esteem of an individual who has narcissistic tendencies provokes further bullying behavior (e.g., “You should care, black nerd”) to ascertain that he is right and she is wrong. Likewise, Manuel teaches Natalia to have low self-esteem by basing her worth on her clothing and emphasizing that she is dirty. Like prejudicial attitudes and behaviors, people who are victimized may adopt this sense of inferiority. Fortunately, some people will be able to breakdown the emotional power that the bullying individual holds over the victimized individual’s fragile self-esteem. 
 
