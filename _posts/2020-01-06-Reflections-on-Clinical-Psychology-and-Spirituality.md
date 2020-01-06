@@ -2,7 +2,7 @@
 layout: post
 title: 'Reflections on Clinical Psychology and Spirituality'
 contributors: Anthony, Derek, Evita, Grace, Katie, Samuel, & Tricia
-tags: science spirituality fundamentalism history-of-clinical-psychology dualism
+tags: clinical psychology social stereotypes bias addiction psychopharmacology psychosis spirituality mindfulness cruelty regret evangelism texting technology relationships
 excerpt: >-
 We gathered together to wrestle with the intersection of clinical psychology and spirituality. This blog post provides a compilation of words of wisdom that emerged from our conversations during Fall 2019. If a topic intrigues you, connect with us to expand the discussion.
 published: true
