@@ -8,7 +8,7 @@ excerpt: >-
     We gathered together to wrestle with the intersection of clinical psychology and spirituality. This blog post provides a compilation of words of wisdom that emerged from our conversations during Fall 2019. If a topic intrigues you, connect with us to expand the discussion.
 published: true
 ---
-## > “It is only because of problems that we grow mentally and spiritually.” - Scott Peck
+## “It is only because of problems that we grow mentally and spiritually.” - Scott Peck
 
 We gathered together to wrestle with the intersection of clinical psychology and spirituality. This blog post provides a compilation of words of wisdom that emerged from our conversations during Fall 2019. If a topic intrigues you, connect with us to expand the discussion.  
 
