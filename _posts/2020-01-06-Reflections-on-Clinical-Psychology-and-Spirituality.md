@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reflections on Clinical Psychology and Spirituality'
-authors: Anthony, Derek, Evita, Grace, Katie, Samuel, & Tricia
+author: Anthony
 tags: >-
 clinical psychology social stereotypes bias addiction psychopharmacology psychosis spirituality mindfulness cruelty regret evangelism texting technology relationships
 excerpt: >-
