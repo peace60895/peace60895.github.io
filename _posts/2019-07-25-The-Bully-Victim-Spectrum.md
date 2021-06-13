@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Bully-Victim Spectrum
-author: Samuel M-E
+author: Samuel E L
 tags: >-
   perpetrator victim bully-victim learned prejudice reconceptualizing bullying
   controversy 
