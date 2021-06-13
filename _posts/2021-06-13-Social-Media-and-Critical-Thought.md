@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Braving Controversy Online: Social Media and Critical Thought'
+title: 'Social Media and Critical Thought'
 author: Samuel E L
 tags: >-
   social media facebook critical thinking online controversy social psychology  
