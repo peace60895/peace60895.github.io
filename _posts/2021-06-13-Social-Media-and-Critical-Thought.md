@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Braving Controversy Online: Social Media and Critical Thought
+title: 'Braving Controversy Online: Social Media and Critical Thought'
 author: Samuel E L
 tags: >-
   social media facebook critical thinking online controversy social psychology  
 excerpt: >-
 As I am learning to navigate controversy, I am increasingly aware that much of the ideological discussion surrounding controversial topics is currently taking place on social media platforms. Social media is a messy arena to brave controversy. To take a closer look at why the process is so complex, let’s start by thinking about Facebook as a business and as a platform that influences the way social conflict dynamics play out.
-published: false
+published: true
+...
 
 As I am learning to navigate controversy, I am increasingly aware that much of the ideological discussion surrounding controversial topics is currently taking place on social media platforms. Social media is a messy arena to brave controversy. To take a closer look at why the process is so complex, let’s start by thinking about Facebook as a business and as a platform that influences the way social conflict dynamics play out. Facebook’s main source of revenue is derived through advertisements and sales (e.g., businesses paying to list advertisements).1 Advertisement and sales revenue continues to increase with the amount of Facebook users—now over 2 billion—and the lengthy amount of time that most of us spend indulging social media. Facebook is a business with over 25,000 employees,2 and the company has a strong interest in making sure that you and I spend as much time as possible using the site. Our time—or, more precisely, the change in our perceptions and behaviors—is the product that is bought and sold on Facebook.3 For a Facebook financier, a “good” post is one that attracts the most attention. Posts with the most clout are brief (like pictures) and emotionally-charged (either intensely positive or negative statements). As these short, emotionally-charged posts flourish and cognitively complex posts are virtually obsolete, critical thinking languishes. 
 
