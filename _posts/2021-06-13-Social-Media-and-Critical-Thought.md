@@ -27,6 +27,4 @@ Despite my reservations, I currently still use Facebook to brave controversy and
 
 
 
-[^1]:
- 	O’Neill, N. (2010, January 19). The secret to how Facebook makes money. Retrieved from https://www.adweek.com/digital/facebook-makes-money/
-
+[^1]: O’Neill, N. (2010, January 19). The secret to how Facebook makes money. Retrieved from https://www.adweek.com/digital/facebook-makes-money/
