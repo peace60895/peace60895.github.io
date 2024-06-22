@@ -41,7 +41,9 @@
       display: inline-block;
 
       &-button {
-          // ... need some button styles
+          color: $light;
+          background: transparent;
+          border: none;
       }
 
       &-content {
